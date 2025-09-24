@@ -1,2 +1,2 @@
 # main_repo
-Haupt-Repository
+Haupt-Repository used as default
